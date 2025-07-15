@@ -1,0 +1,3 @@
+Nombre: Gianela Colina
+Edad: 21
+Status: Mayor de edad
